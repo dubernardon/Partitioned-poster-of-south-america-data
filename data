@@ -1,15 +1,15 @@
-paises,populacao
-Argentina,45
-Bolívia,11
-Brasil,211
-Chile,18
-Colombia,49
-Equador,16
-Guiana,0.750
-IlhasFalkland,0.003
-Paraguai,7
-Peru,31
-Suriname,0.609
-Uruguai,3
-Venezuela,28
-Total, 420.6
+paises,populacao,densidadepopulacional
+Argentina,45,16
+Bolívia,11,11
+Brasil,211,25
+Chile,18,24
+Colombia,49,43
+Equador,16,60
+Guiana,0.750,3
+IlhasFalkland,0.003,0
+Paraguai,7,18
+Peru,31,25
+Suriname,0.609,4
+Uruguai,3,19
+Venezuela,28,31
+Total, 420.6,254
